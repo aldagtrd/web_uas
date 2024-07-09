@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: white; /* Ubah teks menjadi putih */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -10,20 +10,20 @@ body {
 
 .header {
     background-color: #ff7f00;
-    color: white;
+    color: white; /* Ubah teks menjadi putih */
     padding: 10px 0;
     text-align: center;
 }
 
 .nav {
     background-color: #ff7f00;
-    color: white;
+    color: white; /* Ubah teks menjadi putih */
     padding: 10px;
     text-align: center;
 }
 
 .nav a {
-    color: #ff4500; /* Orange Tua */
+    color: white; /* Ubah teks menjadi putih */
     text-decoration: none;
     margin: 0 10px;
 }
@@ -35,7 +35,7 @@ body {
 .section {
     padding: 20px;
     text-align: center;
-    color: white;
+    color: white; /* Ubah teks menjadi putih */
 }
 
 .menu-item {
@@ -43,7 +43,7 @@ body {
     margin: 20px;
     vertical-align: top;
     text-align: center;
-    color: white;
+    color: white; /* Ubah teks menjadi putih */
 }
 
 .menu-item img {
@@ -54,7 +54,7 @@ body {
 
 .footer {
     background-color: #ff7f00;
-    color: #ff4500; /* Orange Tua */
+    color: white; /* Ubah teks menjadi putih */
     text-align: center;
     padding: 10px 0;
     position: fixed;
